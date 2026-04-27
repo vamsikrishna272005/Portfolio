@@ -53,7 +53,7 @@ Upload to GitHub Pages for free hosting.
 
 ## index.html
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -127,11 +127,11 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 
-'''
+```
 
 ## style.css
 
-'''
+```
 
 * {
     margin: 0;
@@ -217,7 +217,7 @@ footer {
     padding: 15px;
 }
 
-'''
+```
 
 ## OUTPUT
 <img width="1919" height="781" alt="Screenshot 2026-04-27 110726" src="https://github.com/user-attachments/assets/78cedade-3fd2-48db-b7df-67ea9c27a85d" />
